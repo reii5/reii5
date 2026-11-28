@@ -40,5 +40,5 @@ Mahasiswa **D3 Rekayasa Perangkat Lunak Aplikasi (RPLA)** di **Telkom University
 ---
 
 ### 📫 Terhubung Dengan Saya
-- **LinkedIn:** [Sofian Triadi / Link LinkedIn Kamu](https://linkedin.com/in/sofian-triadi)
+- **LinkedIn:** [Sofian Triadi](https://linkedin.com/in/sofian-triadi)
 - **Email:** gsofian153@gmail.com
